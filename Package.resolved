@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftDotEnv",
+        "repositoryURL": "https://github.com/SwiftOnTheServer/SwiftDotEnv.git",
+        "state": {
+          "branch": null,
+          "revision": "2a7527210766fc726fb3d26fa9b8f295841e73df",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "Swifter",
+        "repositoryURL": "https://github.com/mattdonnelly/Swifter",
+        "state": {
+          "branch": null,
+          "revision": "39541c9fb3312771fd851bde2d6a89886fbe3851",
+          "version": "2.3.0"
+        }
+      },
+      {
+        "package": "Tracery",
+        "repositoryURL": "https://github.com/BenziAhamed/Tracery.git",
+        "state": {
+          "branch": null,
+          "revision": "2714eabbbd287fe7969314d5a915c61c2d549ef9",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
